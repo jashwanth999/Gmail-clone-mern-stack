@@ -1,0 +1,14 @@
+inboxview :hover {
+  background-color: white;
+}
+
+  .login {
+   
+
+    color: white;
+    animation: mymove 5s infinite;
+  }
+  
+  @keyframes mymove {
+    50% {box-shadow: 10px 20px 30px rgb(0, 255, 85);}
+  }
