@@ -10,7 +10,7 @@ app.use(require("./routes/userroute"));
 app.use(require("./routes/favourite"));
 mongoose
   .connect(
-    "mongodb+srv://jash:jash@cluster0.l1lts.mongodb.net/todo?retryWrites=true&w=majority",
+    "xxxxmongurlxxxx",
     {
       useNewUrlParser: true,
       useCreateIndex: true,
